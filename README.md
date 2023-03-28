@@ -18,17 +18,7 @@ The k-NN algorithm assumes that similar things exist in close proximity. In othe
 
 Suppose you have to predict the class of the yellow star. Based on the k-NN algorithm, we will first plot the given data on a two-dimensional plane. The plot will look like:
 
-### Figure 2: k-NN Algorithm Theory Image 2
 
-![Figure 2: k-NN Algorithm Theory Image 2](https://static.javatpoint.com/tutorial/machine-learning/images/knn-algorithm2.png)
-
-Now, we will determine the nearest neighbors of the yellow star. Suppose we choose k = 3. The three nearest neighbors of the yellow star are as follows:
-
-### Figure 3: k-NN Algorithm Theory Image 3
-
-![Figure 3: k-NN Algorithm Theory Image 3](https://static.javatpoint.com/tutorial/machine-learning/images/knn-algorithm3.png)
-
-As you can see, two of the neighbors are red squares, and one is a blue circle. Therefore, the yellow star will be classified as a red square because two out of three nearest neighbors are red squares.
 
 ## Advantages of k-NN Algorithm:
 
