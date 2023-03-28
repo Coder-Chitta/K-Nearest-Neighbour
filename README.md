@@ -19,7 +19,7 @@ The k-NN algorithm assumes that similar things exist in close proximity. In othe
 ## Why do we need a K-NN Algorithm?
 Suppose there are two categories, i.e., Category A and Category B, and we have a new data point x1, so this data point will lie in which of these categories. To solve this type of problem, we need a K-NN algorithm. With the help of K-NN, we can easily identify the category or class of a particular dataset. Consider the below diagram:
 
-![Alt text](relative/path/to/image.png)
+
 
 ## How does K-NN work?
 The K-NN working can be explained on the basis of the below algorithm:
@@ -31,6 +31,16 @@ The K-NN working can be explained on the basis of the below algorithm:
 - Step-5: Assign the new data points to that category for which the number of the neighbor is maximum.
 - Step-6: Our model is ready.
 - Suppose we have a new data point and we need to put it in the required category. Consider the below image:
+
+
+
+
+## How to select the value of K in the K-NN Algorithm?
+Below are some points to remember while selecting the value of K in the K-NN algorithm:
+
+- There is no particular way to determine the best value for "K", so we need to try some values to find the best out of them. The most preferred value for K is 5.
+- A very low value for K such as K=1 or K=2, can be noisy and lead to the effects of outliers in the model.
+- Large values for K are good, but it may find some difficulties.
 
 
 ## Advantages of k-NN Algorithm:
