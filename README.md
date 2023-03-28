@@ -16,7 +16,10 @@ The k-NN algorithm assumes that similar things exist in close proximity. In othe
 
 ![Figure 1: k-NN Algorithm Theory Image 1](https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning.png)
 
+## Why do we need a K-NN Algorithm?
+Suppose there are two categories, i.e., Category A and Category B, and we have a new data point x1, so this data point will lie in which of these categories. To solve this type of problem, we need a K-NN algorithm. With the help of K-NN, we can easily identify the category or class of a particular dataset. Consider the below diagram:
 
+![Alt text](relative/path/to/image.png)
 
 
 ## Advantages of k-NN Algorithm:
