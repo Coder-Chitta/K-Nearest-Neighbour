@@ -16,7 +16,6 @@ The k-NN algorithm assumes that similar things exist in close proximity. In othe
 
 ![Figure 1: k-NN Algorithm Theory Image 1](https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning.png)
 
-Suppose you have to predict the class of the yellow star. Based on the k-NN algorithm, we will first plot the given data on a two-dimensional plane. The plot will look like:
 
 
 
